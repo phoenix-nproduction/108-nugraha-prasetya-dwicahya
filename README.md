@@ -1,10 +1,10 @@
-<p align="center">Nugraha Prasetya Dwicahya</p>
-<p align="center">Group 6 - 108</p>
-<br>
+Nugraha Prasetya Dwicahya<br>
+Group 6 - 108<br>
 
 ## Cashflow
 
 > Aplikasi sederhana pencatatan alur keuangan
+
 > Personal Project - Jabar Digital Academy
 
 <br>
